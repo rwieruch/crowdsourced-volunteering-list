@@ -16,7 +16,9 @@ Grouped by regions.
 
 ## Africa
 
-* [Uganda](https://www.teachthemtofish.org/)
+### Uganda
+
+* [Teach them to Fish](https://www.teachthemtofish.org/)
 
 ## Australia
 
