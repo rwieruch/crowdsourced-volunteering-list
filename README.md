@@ -40,3 +40,7 @@ Grouped by regions.
 ## North America
 
 ## South America
+
+# Impacts
+
+* Laos: [Giving back, by learning React](https://www.robinwieruch.de/giving-back-by-learning-react/)
