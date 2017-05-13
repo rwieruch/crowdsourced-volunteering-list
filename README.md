@@ -2,17 +2,23 @@
 
 Experiment to crowdsource a list of reputable yet impactful volunteering projects.
 
-**What?** A list of crowdsourced volunteering projects that don't charge any money, are agile (no bureaucracy) and give travellers the opportunity to help.
+**What?** 
 
-**Who?** Travellers who want to give something back and who want have an impact while traveling.
+A list of crowdsourced volunteering projects that don't charge any money, are agile (no bureaucracy) and give travellers the opportunity to help.
 
-**Why?** Not aware of any centrallized resource that gives travellers access to agile volunteering projects.
+**Who?** 
 
-**Where?** Everywhere where you have experienced a volunteering project that had a direct impact yet are looking for volunteers.
+Travellers who want to give something back and who want have an impact while traveling.
 
-# List of Volunteering
+**Why?** 
 
-Grouped by regions.
+Not aware of any centrallized resource that gives travellers access to agile volunteering projects.
+
+**Where?** 
+
+Everywhere where you have experienced a volunteering project that had a direct impact yet are looking for volunteers.
+
+# Volunteering by Region
 
 ## Africa
 
