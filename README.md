@@ -1,22 +1,18 @@
 # crowdsourced-volunteering-list
 
-Experiment to crowdsource a list of reputable yet impactful volunteering projects.
+An experiment to crowdsource a list of impactful yet agile volunteering projects.
 
-**What?** 
+**What is the repository about?** 
 
-A list of crowdsourced volunteering projects that don't charge any money, are agile (no bureaucracy) and give travellers the opportunity to help.
+It presents a list of crowdsourced volunteering projects that don't charge any money (no voluntarism), are agile (no bureaucracy) yet give travellers the opportunity to have an impact.
 
-**Who?** 
+**Why does this repository exist?** 
 
-Travellers who want to give something back and who want have an impact while traveling.
+The repository aims to give travellers an overview of agile volunteering projects because I couldn't find any centralized source for these.
 
-**Why?** 
+**For whom is this repository suitable?** 
 
-Not aware of any centrallized resource that gives travellers access to agile volunteering projects.
-
-**Where?** 
-
-Everywhere where you have experienced a volunteering project that had a direct impact yet are looking for volunteers.
+Travellers who want to give something back and want to have an impact while travelling.
 
 # Volunteering by Region
 
@@ -49,6 +45,6 @@ Everywhere where you have experienced a volunteering project that had a direct i
 
 ## South America
 
-# Impacts
+___
 
-* Laos: [Giving back, by learning React](https://www.robinwieruch.de/giving-back-by-learning-react/)
+If you know of any projects that you think would be a good fit and are missing in this list, please feel free to add them.
