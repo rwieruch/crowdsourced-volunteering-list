@@ -47,4 +47,4 @@ Travellers who want to give something back and want to have an impact while trav
 
 ___
 
-If you know of any projects that you think would be a good fit and are missing in this list, please feel free to add them.
+If you know of any projects that you think would be a good fit and are missing in this list, please feel free to add them. Afterward, it would be great if you shared the list with a friend of yours.
